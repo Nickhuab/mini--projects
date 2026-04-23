@@ -36,26 +36,6 @@ This repository contains beginner-to-intermediate Python CLI projects focused on
 * Case-insensitive answer checking
 * Exit option to quit anytime
 
----
-
-## ▶️ How to Run
-
-Make sure Python is installed on your system.
-
-Run any project using:
-
-```bash
-python filename.py
-```
-
-Example:
-
-```bash
-python contact_book.py
-```
-
----
-
 ## Concepts Covered
 
 * Loops (`for`, `while`)
