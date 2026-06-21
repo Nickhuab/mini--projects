@@ -99,7 +99,7 @@ def delete_book():
     view_book()
     try:
         user=int(input('enter position of book to delete :'))
-        if user<1 and user>len(books):
+        if user<1 or user>len(books):
             print('Invalid input,enter valid position of book')
 
         else:
